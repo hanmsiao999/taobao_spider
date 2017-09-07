@@ -1,0 +1,42 @@
+Thread-4 get //shop59008462.taobao.com
+59008462:0:done
+next page error:list index out of range 
+Thread-4 get //shop103340528.taobao.com
+103340528:0:done
+next page error:list index out of range 
+Thread-4 get //shop69284011.taobao.com
+69284011:0:done
+next page error:list index out of range 
+Thread-4 get //shop70203303.taobao.com
+70203303:0:done
+next page error:list index out of range 
+Thread-4 get //shop157262353.taobao.com
+157262353:0:done
+next page error:list index out of range 
+Thread-4 get //shop112938287.taobao.com
+112938287:0:done
+next page error:list index out of range 
+Thread-4 get //shop113820035.taobao.com
+113820035:0:done
+next page error:list index out of range 
+Thread-4 get //shop112348211.taobao.com
+get ip:223.245.229.24:47565
+get_page Error ,ex:Exceeded 30 redirects.,reget IP
+URL:https://shop112348211.taobao.com
+get ip:60.167.21.210:28069
+get_page Error ,ex:Exceeded 30 redirects.,reget IP
+URL:https://shop112348211.taobao.com
+https://shop112348211.taobao.com: not exists//shop112348211.taobao.com:Thread-4:done:2017-08-23 16:03:17
+Thread-4 get //shop33471355.taobao.com
+33471355:0:done
+next page error:list index out of range 
+Thread-4 get //shop116651700.taobao.com
+116651700:0:done
+next page error:list index out of range 
+Thread-4 get //shop100072618.taobao.com
+100072618:0:done
+next page error:list index out of range 
+Thread-4 get //shop114929167.taobao.com
+114929167:0:done
+next page error:list index out of range 
+Thread-4:break:81.06963682174683

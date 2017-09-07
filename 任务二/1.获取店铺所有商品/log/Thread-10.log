@@ -1,0 +1,25 @@
+Thread-10 get //shop320554611.taobao.com
+320554611:0:done
+next page error:list index out of range 
+Thread-10 get //shop68187648.taobao.com
+68187648:0:done
+next page error:list index out of range 
+Thread-10 get //shop67183572.taobao.com
+67183572:0:done
+next page error:list index out of range 
+Thread-10 get //shop556302403.taobao.com
+556302403:0:done
+next page error:list index out of range 
+Thread-10 get //shop59897421.taobao.com
+59897421:0:done
+next page error:list index out of range 
+Thread-10 get //shop70807350.taobao.com
+70807350:0:done
+next page error:list index out of range 
+Thread-10 get //shop33385175.taobao.com
+33385175:0:done
+next page error:list index out of range 
+Thread-10 get //shop127569585.taobao.com
+127569585:0:done
+next page error:list index out of range 
+Thread-10:break:82.12169694900513

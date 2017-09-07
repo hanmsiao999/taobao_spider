@@ -1,0 +1,171 @@
+=======================================
+553939313950::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+not exist picture
+553939313950:Thread-6:done:2017-07-02 07:46:00
+=======================================
+553540978425::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+not exist picture
+553540978425:Thread-6:done:2017-07-02 07:47:17
+=======================================
+553441695391::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+not exist picture
+553441695391:Thread-6:done:2017-07-02 07:47:22
+=======================================
+552750728385::begin
+get ip:218.73.137.191:27869
+get_page Error ,ex:HTTPSConnectionPool(host='item.taobao.com', port=443): Max retries exceeded with url: /item.htm?id=552750728385 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',))),reget IP
+URL:https://item.taobao.com/item.htm?id=552750728385
+get ip:220.162.4.162:37690
+get_page Error ,ex:HTTPSConnectionPool(host='item.taobao.com', port=443): Max retries exceeded with url: /item.htm?id=552750728385 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',))),reget IP
+URL:https://item.taobao.com/item.htm?id=552750728385
+get ip:125.113.252.211:24018
+get_page Error ,ex:HTTPSConnectionPool(host='item.taobao.com', port=443): Max retries exceeded with url: /item.htm?id=552750728385 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',))),reget IP
+URL:https://item.taobao.com/item.htm?id=552750728385
+get ip:114.239.145.124:44986
+get_page Error ,ex:HTTPSConnectionPool(host='item.taobao.com', port=443): Max retries exceeded with url: /item.htm?id=552750728385 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',))),reget IP
+URL:https://item.taobao.com/item.htm?id=552750728385
+get ip:125.122.21.222:11258
+get_page Error ,ex:HTTPSConnectionPool(host='item.taobao.com', port=443): Max retries exceeded with url: /item.htm?id=552750728385 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 403 Forbidden',))),reget IP
+URL:https://item.taobao.com/item.htm?id=552750728385
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+552750728385:Thread-6:done:2017-07-02 07:50:28
+=======================================
+552024615093::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+not exist picture
+552024615093:Thread-6:done:2017-07-02 07:50:39
+=======================================
+551756219526::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+551756219526:Thread-6:done:2017-07-02 07:50:50
+=======================================
+551756119648::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+not exist picture
+551756119648:Thread-6:done:2017-07-02 07:50:59
+=======================================
+554829179459::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+get_picture_comment succeed current_page:1
+get_picture_comment succeed
+554829179459:Thread-6:done:2017-08-23 17:09:47
+=======================================
+552028793742::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+get_picture_comment succeed current_page:1
+get_picture_comment succeed current_page:2
+get_picture_comment succeed current_page:3
+get_picture_comment succeed current_page:4
+get_picture_comment succeed
+fucntion run error:[Errno 22] Invalid argument:Thread-6

@@ -1,0 +1,41 @@
+Thread-6 get //shop119667895.taobao.com
+AsynSearchURL not in content
+AsynSearchURL get error
+no  find AsynSearchURL
+Thread-6 get //shop119667895.taobao.com
+AsynSearchURL not in content
+AsynSearchURL get error
+no  find AsynSearchURL
+Thread-6 get //shop65040182.taobao.com
+get ip:117.69.14.53:31797
+get_page Error ,ex:Exceeded 30 redirects.,reget IP
+URL:https://shop65040182.taobao.com
+get ip:113.121.246.79:21501
+get_page Error ,ex:Exceeded 30 redirects.,reget IP
+URL:https://shop65040182.taobao.com
+https://shop65040182.taobao.com: not exists//shop65040182.taobao.com:Thread-6:done:2017-08-23 16:02:53
+Thread-6 get //shop63847927.taobao.com
+63847927:0:done
+next page error:list index out of range 
+Thread-6 get //shop101029242.taobao.com
+101029242:0:done
+next page error:list index out of range 
+Thread-6 get //shop35322452.taobao.com
+35322452:0:done
+next page error:list index out of range 
+Thread-6 get //shop72029906.taobao.com
+72029906:0:done
+next page error:list index out of range 
+Thread-6 get //shop127885857.taobao.com
+127885857:0:done
+next page error:list index out of range 
+Thread-6 get //shop67509642.taobao.com
+67509642:0:done
+next page error:list index out of range 
+Thread-6 get //shop119667895.taobao.com
+119667895:0:done
+next page error:list index out of range 
+Thread-6 get //shop34942697.taobao.com
+34942697:0:done
+next page error:list index out of range 
+Thread-6:break:83.65178442001343

@@ -1,0 +1,57 @@
+=======================================
+552322441567::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+get_picture_comment succeed current_page:1
+get_picture_comment succeed current_page:2
+get_picture_comment succeed
+552322441567:Thread-1:done:2017-09-03 11:55:03
+=======================================
+Thread-1:break:13.108749628067017
+=======================================
+535623239537::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi_re fail
+main method error:extend_information_jiexi error:Thread-1
+=======================================
+Thread-1:break:43.06146287918091
+=======================================
+552322441567::begin
+get mainPageConent succeed
+categroy_id，sellerId，descUrl succeed
+main_page_jiexi_succeed
+get detail_content succeed
+detail_content_jiexi_re succeed
+get descContent succeed
+get descContent_jiexi succeed
+get detailCountContent succeed
+detailCount succeed
+extend_information_jiexi succeed
+get rate_content succeed
+rate_jiexi succeed
+get collectcount_Content succeed
+get_picture_comment succeed current_page:1
+get_picture_comment succeed current_page:2
+get_picture_comment succeed
+552322441567:Thread-1:done:2017-09-03 12:03:41
+=======================================
+Thread-1:break:17.239985942840576
